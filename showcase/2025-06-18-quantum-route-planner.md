@@ -1,7 +1,7 @@
 ---
 title: "Quantum Route Planner: Hybrid Optimisation for Last-Mile Logistics"
 collection: showcase
-status: "under review"
+status: "published"
 date: 2025-06-18
 summary: "A hybrid classical/quantum workflow for solving last-mile delivery routing problems with hard time windows."
 tags:
