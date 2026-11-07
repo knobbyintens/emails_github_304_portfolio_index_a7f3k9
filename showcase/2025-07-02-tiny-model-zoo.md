@@ -1,7 +1,7 @@
 ---
 title: "Tiny Model Zoo: Reproducible Benchmarks for Sub-100M Parameter Models"
 collection: showcase
-status: "pending review"
+status: "published"
 date: 2025-07-02
 summary: "A reproducible benchmark suite comparing small language and vision models under a shared evaluation harness."
 tags:
